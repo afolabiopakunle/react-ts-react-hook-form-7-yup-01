@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@hookform/resolvers": "^2.9.8",
     "@hookform/resolvers/yup": "*",
     "@types/react": "^18.0.8",
     "@types/react-dom": "^18.0.2",
