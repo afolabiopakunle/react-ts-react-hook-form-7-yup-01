@@ -1,3 +1,8 @@
 h1, p {
   font-family: Lato;
 }
+
+.register-form {
+  max-width: 350px;
+  margin: auto;
+}
