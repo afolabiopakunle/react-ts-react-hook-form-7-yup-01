@@ -93,7 +93,7 @@ export default function App() {
             <input id='acceptTerms' className={`form-check-input ${errors.acceptTerms ? "is-invalid" : ''}`} type="checkbox" />
             <div className="invalid-feedback">{errors.acceptTerms?.message}</div>
           </div>
-          <div className="form-group">
+          <div className="btn-group">
             <button type='submit' className="btn btn-primary">Register</button>
             <button type='button' className="btn btn-danger">Close</button>
           </div>
